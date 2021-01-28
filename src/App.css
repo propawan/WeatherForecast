@@ -2,6 +2,24 @@
   text-align: center;
 }
 
+.cardContainer{
+  display: flex;
+  padding: 1rem;
+}
+
+.card{
+  background-color: #cdd0cb;
+  margin: 0.5rem;
+}
+
+.card-subtitle{
+  color: #7c9473;
+}
+
+.card-title{
+  text-align: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
