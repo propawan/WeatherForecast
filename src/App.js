@@ -5,7 +5,7 @@ import DropDown from './DropDown';
 
 function App() {
   const [inputTemp, setInputTemp] = useState([]);
-  const [currCountry, setCurrCountry] = useState("london");
+  const [currCountry, setCurrCountry] = useState("London");
 
   useEffect(() => {
     fetch(`http://api.openweathermap.org/data/2.5/forecast?q=${currCountry}&mode=json&appid=c9e128bafece16f2a16d5f186adfe415`)

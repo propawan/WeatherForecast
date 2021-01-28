@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About
+
+In this project i have created a simple React Website\
+which shows the weather forecast for the next 5 days\
+for a particular place.
+
 ## Available Scripts
 
 In the project directory, you can run:
