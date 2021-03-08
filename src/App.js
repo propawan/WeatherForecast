@@ -38,4 +38,4 @@ function App() {
 
 export default App;
 
-// Check check git
+// Check git access
