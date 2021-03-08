@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In this project i have created a simple React Website\
 which shows the weather forecast for the next 5 days\
 for a particular place.
+I have used openweather api in the project.
 
 ## Available Scripts
 
